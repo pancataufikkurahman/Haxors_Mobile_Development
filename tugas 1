@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ada</title>
+</head>
+<body>
+	<script type="text/javascript">
+		
+		var yes = {"nama":"Panca Taufik kurahman","prodi":"Matematika","semester":"3","alamat":"Percut sei Tuan"};
+		
+
+		console.log("nama = "+yes.nama)
+		console.log("prodi = "+yes.prodi)
+		console.log("alamat = "+yes.alamat)
+		console.log("semester = "+yes.semester)
+	</script>
+
+</body>
+</html>
